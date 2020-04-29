@@ -1,6 +1,6 @@
-title = "Notre-Dame de Paris"
-baseURL = "/hugo-website"
-languageCode = "en-us"
+title = "Pasear en tiempos de COVID19"
+baseURL = "/patico19"
+languageCode = "es"
 theme = "gohugo-theme-ananke"
 themesDir = "themes"
 
@@ -20,7 +20,7 @@ enableRobotsTXT = true
   favicon = ""
   description = "The last theme you'll ever need. Maybe."
   facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
+  twitter = "https://twitter.com/PCVillarcayo"
   instagram = ""
   youtube = ""
   github = ""
