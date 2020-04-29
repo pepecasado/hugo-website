@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Pasear en tiempos de COVID19</title>
-    <link>/hugo-website/tags/</link>
+    <link>/patico19/tags/</link>
     <description>Recent content in Tags on Pasear en tiempos de COVID19</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Wed, 12 Apr 2017 11:14:48 -0400</lastBuildDate>
     
-	<atom:link href="/hugo-website/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/patico19/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>scene</title>
-      <link>/hugo-website/tags/scene/</link>
+      <link>/patico19/tags/scene/</link>
       <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
       
-      <guid>/hugo-website/tags/scene/</guid>
+      <guid>/patico19/tags/scene/</guid>
       <description></description>
     </item>
     
